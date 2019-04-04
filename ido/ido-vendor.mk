@@ -396,6 +396,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdmdetect.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libmm-abl-oem.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-abl-oem.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libmm-abl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-abl.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib64/libmm-als.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-als.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libmm-disp-apis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-disp-apis.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libmm-qdcm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmm-qdcm.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr.so \
@@ -421,6 +422,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/vendor/lib64/librs_adreno_sha1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librs_adreno_sha1.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libsc-a3xx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsc-a3xx.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libscale.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libscale.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib64/libsensor1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensor1.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libsettings.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsettings.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libsmemlog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsmemlog.so \
     vendor/xiaomi/ido/proprietary/vendor/lib64/libssd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libssd.so \

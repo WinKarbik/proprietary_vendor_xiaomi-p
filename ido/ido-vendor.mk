@@ -20,9 +20,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ido/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/xiaomi/ido/proprietary/etc/dpm/nsrm/NsrmConfiguration.xml:system/etc/dpm/nsrm/NsrmConfiguration.xml \
     vendor/xiaomi/ido/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/xiaomi/ido/proprietary/lib/hw/consumerir.msm8916.so:system/lib/hw/consumerir.msm8916.so \
-    vendor/xiaomi/ido/proprietary/lib64/hw/consumerir.msm8916.so:system/lib64/hw/consumerir.msm8916.so \
-    vendor/xiaomi/ido/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib/hw/consumerir.msm8916.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/consumerir.msm8916.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib64/hw/consumerir.msm8916.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/consumerir.msm8916.so \
+    vendor/xiaomi/ido/proprietary/vendor/lib64/hw/sensors.msm8916.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.msm8916.so \
     vendor/xiaomi/ido/proprietary/lib64/librilqmiservices.so:system/lib64/librilqmiservices.so \
     vendor/xiaomi/ido/proprietary/vendor/bin/adsprpcd:$(TARGET_COPY_OUT_VENDOR)/bin/adsprpcd \
     vendor/xiaomi/ido/proprietary/vendor/bin/btnvtool:$(TARGET_COPY_OUT_VENDOR)/bin/btnvtool \
